@@ -94,6 +94,8 @@ If you're a student or enthusiast interested in digital image processing, feel f
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ---
 
 ## Contributing
