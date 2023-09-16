@@ -73,16 +73,22 @@ Each homework assignment is organized in its dedicated folder within this reposi
 ## Final Project
 
 The final project was a culmination of my learning in this course. It was about implementing an article related to skin detection using spatial filtering.(available on my GitHub) 
+
+
 ---
 
 ## Examinations
 
 To assess my understanding of the course material, I took both a midterm and a final exam. While I can't provide specific details about the exams here, I can share my general experience and study resources upon request.
+
+
 ---
 
 ## How to Use
 
 If you're a student or enthusiast interested in digital image processing, feel free to explore the code and descriptions within this repository. You can use this repository as a reference for your own studies, projects, or as a source of inspiration for image processing techniques.
+
+
 ---
 
 ## License
@@ -93,4 +99,6 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ## Contributing
 
 I'm open to contributions, corrections, and improvements to the code and descriptions. If you have any suggestions or spot any issues, please don't hesitate to create an issue or submit a pull request.
+
+
 ---
