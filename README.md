@@ -15,10 +15,12 @@ Welcome to my Digital Image Processing (DIP) course homework repository! This re
 ---
 
 ## Overview
+
 In this course, I delved into the fascinating world of Digital Image Processing. I worked on various assignments that enhanced my understanding of image manipulation, enhancement, and analysis. The repository showcases my efforts and solutions throughout the semester.
 ---
 
 ## Course Structure
+
 The Digital Image Processing course comprised the following components:
 
 - **Homework Assignments**: There were five homework assignments, each covering different topics and challenges related to image processing. These assignments helped me develop practical skills in implementing image processing techniques.
@@ -29,6 +31,7 @@ The Digital Image Processing course comprised the following components:
 ---
 
 ## Homework Assignments
+
 Each homework assignment is organized in its dedicated folder within this repository. Below, you'll find a brief description of each assignment along with the link to its respective folder.
 
 ### Homework 1
@@ -64,21 +67,26 @@ Each homework assignment is organized in its dedicated folder within this reposi
 ---
 
 ## Final Project
+
 The final project was a culmination of my learning in this course. It was about implementing an article related to skin detection using spatial filtering.(available on my GitHub) 
 ---
 
 ## Examinations
+
 To assess my understanding of the course material, I took both a midterm and a final exam. While I can't provide specific details about the exams here, I can share my general experience and study resources upon request.
 ---
 
 ## How to Use
+
 If you're a student or enthusiast interested in digital image processing, feel free to explore the code and descriptions within this repository. You can use this repository as a reference for your own studies, projects, or as a source of inspiration for image processing techniques.
 ---
 
 ## License
+
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 ## Contributing
+
 I'm open to contributions, corrections, and improvements to the code and descriptions. If you have any suggestions or spot any issues, please don't hesitate to create an issue or submit a pull request.
 ---
