@@ -1,9 +1,11 @@
 # Digital Image Processing (DIP) Course Homeworks
 
 Welcome to my Digital Image Processing (DIP) course homework repository! This repository contains my solutions and implementations of homework assignments from the Spring 2022 semester at Amirkabir University of Technology (AUT). I had the privilege of learning from Professor M. Rahmati and excelled in the implementation aspect of the course, achieving the highest scores.
+
 ---
 
 ## Table of Contents
+
 1. [Overview](#overview)
 2. [Course Structure](#course-structure)
 3. [Homework Assignments](#homework-assignments)
@@ -12,11 +14,13 @@ Welcome to my Digital Image Processing (DIP) course homework repository! This re
 6. [How to Use](#how-to-use)
 7. [Contributing](#contributing)
 8. [License](#license)
+
 ---
 
 ## Overview
 
 In this course, I delved into the fascinating world of Digital Image Processing. I worked on various assignments that enhanced my understanding of image manipulation, enhancement, and analysis. The repository showcases my efforts and solutions throughout the semester.
+
 ---
 
 ## Course Structure
