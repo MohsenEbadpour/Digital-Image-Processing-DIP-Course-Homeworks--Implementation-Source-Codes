@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP) Course Homeworks
+# Digital Image Processing (DIP) Course Homeworks (Implementation source codes)
 
 Welcome to my Digital Image Processing (DIP) course homework repository! This repository contains my solutions and implementations of homework assignments from the Spring 2022 semester at Amirkabir University of Technology (AUT). I had the privilege of learning from Professor M. Rahmati and excelled in the implementation aspect of the course, achieving the highest scores.
 
